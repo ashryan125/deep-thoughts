@@ -36,8 +36,3 @@ module.exports = {
   },
 };
 
-// {
-//     "username": "tester3",
-//     "password": "test555",
-//     "email": "test3@test.com"
-//   }

@@ -3,6 +3,9 @@
 ## Description
 A social media application called Deep Thoughts. Users will be able to sign up and create an account, post their thoughts, interact with other users, and create a friend's list
 
+### Deployed Application
+[Deep Thoughts](https://deep-thoughts-socialapp.herokuapp.com/)
+
 ---
 
 ## Table of Contents
